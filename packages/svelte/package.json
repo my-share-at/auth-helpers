@@ -48,7 +48,7 @@
         "typescript": "^4.7.2"
     },
     "dependencies": {
-        "@supabase/auth-helpers-shared": "workspace:*",
+        "@supabase/auth-helpers-shared": "https://gitpkg.now.sh/my-share-at/auth-helpers/packages/shared?ac87881",
         "@supabase/supabase-js": "^1.35.3",
         "dequal": "^2.0.2"
     }
