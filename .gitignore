@@ -30,7 +30,6 @@ yarn-error.log*
 .env.production.local
 
 # Distribution directories
-dist/
 package/
 
 # turbo
