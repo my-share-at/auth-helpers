@@ -1,5 +1,5 @@
 {
-  "name": "@supabase/auth-helpers-sveltekit",
+  "name": "@myshare/auth-helpers-sveltekit",
   "version": "0.6.10",
   "description": "A collection of framework specific Auth utilities for working with Supabase.",
   "type": "module",
