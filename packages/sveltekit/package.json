@@ -52,7 +52,7 @@
     "vite": "^2.9.13"
   },
   "dependencies": {
-    "@supabase/auth-helpers-shared": "https://gitpkg.now.sh/my-share-at/auth-helpers/packages/shared?ac87881",
+    "@supabase/auth-helpers-shared": "https://gitpkg.now.sh/my-share-at/auth-helpers/packages/shared?ddbe87b",
     "@supabase/supabase-js": "^1.35.3"
   }
 }
