@@ -292,7 +292,7 @@ importers:
 
   packages/svelte:
     specifiers:
-      '@supabase/auth-helpers-shared': https://gitpkg.now.sh/my-share-at/auth-helpers/packages/shared?ac87881
+      '@supabase/auth-helpers-shared': https://gitpkg.now.sh/my-share-at/auth-helpers/packages/shared?82e587c
       '@supabase/supabase-js': ^1.35.3
       '@sveltejs/kit': 1.0.0-next.355
       del-cli: ^4.0.1
@@ -303,7 +303,7 @@ importers:
       tslib: ^2.3.1
       typescript: ^4.7.2
     dependencies:
-      '@supabase/auth-helpers-shared': '@gitpkg.now.sh/my-share-at/auth-helpers/packages/shared?ac87881'
+      '@supabase/auth-helpers-shared': '@gitpkg.now.sh/my-share-at/auth-helpers/packages/shared?82e587c'
       '@supabase/supabase-js': 1.35.3
       dequal: 2.0.2
     devDependencies:
@@ -317,7 +317,7 @@ importers:
 
   packages/sveltekit:
     specifiers:
-      '@supabase/auth-helpers-shared': https://gitpkg.now.sh/my-share-at/auth-helpers/packages/shared?ac87881
+      '@supabase/auth-helpers-shared': https://gitpkg.now.sh/my-share-at/auth-helpers/packages/shared?82e587c
       '@supabase/supabase-js': ^1.35.3
       '@sveltejs/kit': 1.0.0-next.355
       del-cli: ^4.0.1
@@ -328,7 +328,7 @@ importers:
       typescript: ^4.7.2
       vite: ^2.9.13
     dependencies:
-      '@supabase/auth-helpers-shared': '@gitpkg.now.sh/my-share-at/auth-helpers/packages/shared?ac87881'
+      '@supabase/auth-helpers-shared': '@gitpkg.now.sh/my-share-at/auth-helpers/packages/shared?82e587c'
       '@supabase/supabase-js': 1.35.3
     devDependencies:
       '@sveltejs/kit': 1.0.0-next.355_svelte@3.48.0
@@ -6127,8 +6127,8 @@ packages:
     engines: {node: '>=10'}
     dev: true
 
-  '@gitpkg.now.sh/my-share-at/auth-helpers/packages/shared?ac87881':
-    resolution: {tarball: https://gitpkg.now.sh/my-share-at/auth-helpers/packages/shared?ac87881}
+  '@gitpkg.now.sh/my-share-at/auth-helpers/packages/shared?82e587c':
+    resolution: {tarball: https://gitpkg.now.sh/my-share-at/auth-helpers/packages/shared?82e587c}
     name: '@supabase/auth-helpers-shared'
     version: 0.1.3
     dependencies:

@@ -5,7 +5,7 @@ import { type Session } from './helpers';
 declare const __propDef: {
     props: {
         supabaseClient: SupabaseClient;
-        endpointPrefix?: any;
+        endpointPrefix?: string;
         callbackUrl?: string;
         profileUrl?: string;
         autoRefreshToken?: boolean;

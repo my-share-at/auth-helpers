@@ -1,4 +1,5 @@
 import type { User } from '@supabase/supabase-js';
+import type { ErrorPayload } from '@supabase/auth-helpers-shared';
 export declare type UserExtra = User & {
     exp?: number;
 };

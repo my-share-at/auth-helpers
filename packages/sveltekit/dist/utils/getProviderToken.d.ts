@@ -8,5 +8,5 @@ interface GetProviderTokenOptions {
  * @param { GetProviderTokenOptions } options
  * @returns {string}
  */
-export declare function getProviderToken(req: Request, options?: GetProviderTokenOptions): any;
+export declare function getProviderToken(req: Request, options?: GetProviderTokenOptions): string;
 export {};
